@@ -1,4 +1,4 @@
-### 😉 I'm Hwuiinn. Nice to meet U. 
+# 🐣 Hwui_inn 🐥
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huwiinn)](https://github.com/Huwiinn/github-readme-stats)
 
