@@ -6,9 +6,7 @@
 <a href="https://velog.io/@hui0725" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/innnnniin/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-</a>
+
 
 ## 📕 SKill
 
