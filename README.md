@@ -25,8 +25,7 @@
 ## 🏌️‍♂️ Introduce
 
 <div>
-  <p>꾸미는 것을 좋아하는 프론트엔드 개발자입니다.</p>
-  <p>부족함을 인정하고, 양분삼아 더 노력하는 개인이고 싶습니다. </p>
+  <p>Welcome to my Repo :)</p>
 </div>
 
 ## 📫 How to reach me
