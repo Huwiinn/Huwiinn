@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huwiinn)](https://github.com/Huwiinn/github-readme-stats)
 
 ## ☘️ SNS
-<a href="https://velog.io/@hui0725" target="_blank">
+블로그 - <a href="https://velog.io/@hui0725" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
 </a>
 
