@@ -1,4 +1,4 @@
-# 🐣 Hwui_inn 🐥
+# Hwuiinn
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huwiinn)](https://github.com/Huwiinn/github-readme-stats)
 
