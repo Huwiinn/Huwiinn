@@ -21,13 +21,6 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
 </span>
 
-
-## 🏌️‍♂️ Introduce
-
-<div>
-  <p>Welcome to my Repo :)</p>
-</div>
-
 ## 📫
 <span>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/> -
