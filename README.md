@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huwiinn)](https://github.com/Huwiinn/github-readme-stats)
 
 ## ☘️ SNS
-블로그 - <a href="https://velog.io/@hui0725" target="_blank">
+<a href="https://velog.io/@hui0725" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
 </a>
 
@@ -28,14 +28,12 @@
   <p>Welcome to my Repo :)</p>
 </div>
 
-## 📫 How to reach me
+## 📫
 <span>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/> -
 </span>
 <a href="mailto:gnldls8406@gmail.com">gnldls8406@gmail.com</a>
 
-
-  
 
 <!--
 **Huwiinn/Huwiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
